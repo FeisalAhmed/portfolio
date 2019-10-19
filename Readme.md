@@ -3,12 +3,21 @@
 ## FeisalAhmeD
 
 ## description
+
 this is my portfolio explains about me
-##deploying
+
+## deploying
+
 github
-##technology used
+
+## technology used
+
 HTML and CSS
-##buggs
+
+## buggs
+
 footer
-##contact detail
+
+## contact detail
+
 feizulf@gmail.com
